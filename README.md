@@ -1,6 +1,7 @@
 # To-Do-List-
 
-Features:
+FEATURES:
+
 Add Tasks: Quickly add new tasks to your list with a simple interface.
 Delete Tasks: Easily remove tasks that are no longer needed.
 Track Progress: View your tasks in two categories – Completed and Incomplete – to stay organized and focused.
